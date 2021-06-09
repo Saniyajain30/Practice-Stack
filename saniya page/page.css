@@ -1,0 +1,63 @@
+body{
+        background-image: url(http://avante.biz/wp-content/uploads/Fashion-Backgrounds-Pictures/Fashion-Backgrounds-Pictures-025.jpg)
+    }
+    
+    a.link{
+        color: blueviolet;
+    }
+    
+    
+    a:active{
+        text-decoration: underline;
+    }
+    
+    a:link, a:visited{
+        background-color: purple;
+        color: white;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+    }
+    
+    a:hover, a:active{
+        background-color: rebeccapurple;
+    }
+     h1{
+         color: hotpink;
+         text-align: center;
+         text-shadow: black;
+         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+         text-decoration-line: underline;
+     }
+     div.ImageGallery{
+        margin: 5px;
+        float: left;
+        border: 2px solid black;
+        width: 300px;
+        align-items: center;
+        align-content: center;
+    }
+    
+    div.description{
+        padding: 3px;
+        text-align: center;
+        width: 200px;
+        height: 100px;
+        overflow: scroll;
+    }
+    
+    button{
+        color: mediumblue;
+        text-align: center;
+    }
+
+    h2{
+        color: mediumblue;
+        text-align: center;
+    }
+
+    h3{
+        color: black;
+        text-align: center;
+    }
